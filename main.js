@@ -73,7 +73,7 @@ y cruz si el valor es 0.*/
 súmalos y devuelve el resultado mediante a return. Finalmente
 muéstralos por pantalla.*/
 
-/*function numeros(){
+function numeros(){
     let num = [280, 47, 339];
     let sumar = 0;
     for (let i = 0; i < num.length; i++){
@@ -82,7 +82,7 @@ muéstralos por pantalla.*/
     return sumar;
 }
 let resultadoSuma = numeros();
-console.log(resultadoSuma);*/
+console.log(resultadoSuma);
 
 
 
